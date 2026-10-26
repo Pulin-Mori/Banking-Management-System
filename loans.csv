@@ -1,0 +1,4 @@
+LOANID,CUSTID,EMP_ID,AMOUNT        ,STATUS              ,REMARKS                                          ,TIMESTAMP           
+003001,002001,001003,00000015000.00,ASSIGNED            ,Home Renovation Loan                             ,2026-10-26 10:52:05 
+003002,002002,001004,00000025000.00,ASSIGNED            ,Higher Education Loan                            ,2026-10-26 11:03:47 
+003003,002001,001004,00000005000.00,APPROVED            ,School fees                                      ,2026-10-26 11:05:31 

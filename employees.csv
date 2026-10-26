@@ -1,0 +1,6 @@
+EMP_ID,FIRST_NAME      ,LAST_NAME       ,PASSWORD        ,ROLE          ,STATUS        ,SESSION           ,TIMESTAMP           
+001001,Vikram          ,Rao             ,admin123        ,ADMIN         ,ACTIVE        ,OFFLINE           ,2026-10-26 11:03:21 
+001002,Meera           ,Iyer            ,mgr123          ,MANAGER       ,ACTIVE        ,OFFLINE           ,2026-10-26 11:04:32 
+001003,Arjun           ,Patel           ,emp123          ,EMPLOYEE      ,ACTIVE        ,OFFLINE           ,2026-10-26 10:52:05 
+001004,Sneha           ,Reddy           ,emp123          ,EMPLOYEE      ,ACTIVE        ,OFFLINE           ,2026-10-26 11:06:10 
+001005,Pulin           ,Mori            ,pulin123        ,MANAGER       ,ACTIVE        ,OFFLINE           ,2026-10-26 10:58:58 

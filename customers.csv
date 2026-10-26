@@ -1,0 +1,4 @@
+USERID,FIRST_NAME    ,LAST_NAME     ,PASSWORD       ,BALANCE      ,LOAN_AMOUNT  ,STATUS    ,SESSION       ,TIMESTAMP           
+002001,Pulin         ,Mori          ,pulin123       ,0000060000.00,0000005000.00,ACTIVE    ,OFFLINE       ,2026-10-26 11:05:31 
+002002,Rohit         ,Verma         ,rohit123       ,0000040000.00,0000000000.00,ACTIVE    ,OFFLINE       ,2026-10-26 10:54:57 
+002003,Priya         ,Nair          ,priya123       ,0000020000.00,0000000000.00,ACTIVE    ,OFFLINE       ,2026-10-26 10:52:05 

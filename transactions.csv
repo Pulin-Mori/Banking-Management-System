@@ -1,0 +1,9 @@
+TXN_ID,CUSTID,TYPE              ,AMOUNT        ,BALANCE_AFTER ,NOTE                                       ,TIMESTAMP           
+000001,002001,OPEN_ACC          ,00000050000.00,00000050000.00,Initial Account Opening Deposit            ,2026-10-26 10:52:05 
+000002,002002,OPEN_ACC          ,00000035000.00,00000035000.00,Initial Account Opening Deposit            ,2026-10-26 10:52:05 
+000003,002003,OPEN_ACC          ,00000020000.00,00000020000.00,Initial Account Opening Deposit            ,2026-10-26 10:52:05 
+000004,002001,DEPOSIT           ,00000015000.00,00000065000.00,Self Cash Deposit                          ,2026-10-26 10:54:11 
+000005,002001,WITHDRAW          ,00000005000.00,00000060000.00,Self Cash Withdrawal                       ,2026-10-26 10:54:31 
+000006,002001,TRANSFER_OUT      ,00000005000.00,00000055000.00,Transfer to Customer #002002 (Rohit)       ,2026-10-26 10:54:57 
+000007,002002,TRANSFER_IN       ,00000005000.00,00000040000.00,Transfer from Customer #002001 (Alice)     ,2026-10-26 10:54:57 
+000008,002001,LOAN_CREDIT       ,00000005000.00,00000060000.00,Loan #003003 Approved by Emp #001004       ,2026-10-26 11:05:31 
